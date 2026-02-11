@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "jekyll-theme-cayman" # (Or another GitHub Pages theme)
-title: "Chemistry and AI"
+title: "Portfolio"
 title_separator: " - "
-name: "Bruno"
-description: "Exploring the automation of chemistry experiments using AI, with a focus on automatic titrations."
+name: "Bruno V"
+description: "A personal portfolio of all the projects I have done/participated on so far."
 url: "https://bruneitor123.github.io"  # Base hostname
-baseurl: "/chem-and-ai"  # Subpath for your repository
-repository: "bruneitor123/chem-and-ai"
+baseurl: "/portfolio"  # Subpath for your repository
+repository: "bruneitor123/portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Bruno"
   pronouns         : # example: "she/her"  
-  bio              : "Student at Pearson College UWC"
+  bio              : "Student at Earlham College"
   location         : "Earth"
-  employer         : "N/A"
+  employer         : "Earlham College"
   uri              : # URL
   email            : "brunitoaas@gmail.com" 
 
