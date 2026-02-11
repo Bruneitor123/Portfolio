@@ -14,8 +14,8 @@ title_separator: " - "
 name: "Bruno V"
 description: "A personal portfolio of all the projects I have done/participated on so far."
 url: "https://bruneitor123.github.io"  # Base hostname
-baseurl: "/portfolio"  # Subpath for your repository
-repository: "bruneitor123/portfolio"
+baseurl: "/Portfolio"  # Subpath for your repository
+repository: "bruneitor123/Portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
