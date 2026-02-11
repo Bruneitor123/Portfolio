@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "jekyll-theme-cayman" # (Or another GitHub Pages theme)
 title: "Portfolio"
 title_separator: " - "
 name: "Bruno V"
