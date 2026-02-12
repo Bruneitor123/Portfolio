@@ -1,33 +1,41 @@
 ---
 permalink: /
-title: "Exploring the Fusion of Chemistry and Artificial Intelligence"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Exploring the Intersection of Chemistry and Artificial Intelligence
+# My warm portfolio
 
-Welcome to the convergence of **Chemistry** and **Artificial Intelligence (AI)**. This platform is dedicated to showcasing how AI is revolutionizing chemical experiments, with a special emphasis on **automated titration systems**.
+Hello, I am Bruno! 👋. I made this github-pages website to share the projects I have worked on in a way to streamline the way I store my ideas, and a place where I can brag about wild ideas that come to me!
+I wanted to also share that this about page is shared with the one I have on my GitHub main page.
 
-## The Convergence of AI and Chemistry
+## About me
 
-Integrating AI into chemistry has led to significant advancements. AI algorithms can analyze complex chemical data, predict reaction outcomes, and automate laboratory procedures, enhancing both efficiency and precision in research and industrial applications.
+I was born in Oruro, Bolivia, a high-altitude city known for its mining history and vibrant cultural traditions (like the carnival!). I finished high school at Anglo American School in Oruro and completed the International Baccalaureate Diploma Programme at Pearson College UWC on Vancouver Island, Canada. 
 
-## Spotlight on Automated Titrations
+I am now a first-year student at Earlham College in Richmond, Indiana, pursuing a Bachelor of Arts in Engineering (thinking of doing their 3+2 Pre-Professional engineering program) and building a path toward aerospace engineering.
 
-Titration, a fundamental analytical technique in chemistry, has been transformed through automation and AI integration. Traditional manual titrations are susceptible to human error and variability, whereas automated systems offer improved accuracy and reproducibility.
+## 📚 Academics
 
-For instance, recent studies have demonstrated the use of computer vision technology to perform automatic titration experiments. These systems utilize visual data to determine end points accurately, reducing the need for manual observation and interpretation. ([pubs.acs.org](https://pubs.acs.org/doi/10.1021/acs.jchemed.1c00810))
+At Earlham, I am in my freshman year in the Engineering program, which combines a strong foundation in math, physics, and engineering with liberal arts skills like communication and ethical reasoning. I am especially interested in how these fundamentals connect to aerospace topics such as fluid mechanics, structures, and control systems that are core to aircraft and spacecraft design.
 
-Moreover, integrating AI in titration processes has been shown to optimize chemical reactions, reduce energy consumption, and minimize waste in chemical manufacturing. ([bmmagazine.co.uk](https://bmmagazine.co.uk/business/the-future-of-titration-in-business-automation-and-ai-integration/))
+Before Earlham, I completed the IB Diploma at Pearson College UWC, a demanding pre-university curriculum that strengthened my quantitative reasoning, research abilities, and ability to work under academic pressure. That experience, together with UWC’s global and community-focused environment, strongly influences how I think about using engineering to solve real-world problems.
 
-## Applications and Future Directions
+## 🤿 Extracurriculars and projects 👨‍💻
 
-The synergy between AI and chemistry extends beyond titrations. AI-driven automation is being employed in various domains such as drug discovery, environmental monitoring, and materials science. The continuous evolution of AI technologies promises to further enhance the capabilities and efficiency of chemical research and industrial processes.
+Outside of class, I like working at the intersection of technical problem-solving, hands-on work, and community. On campus, I work as an Audio Visual Technician at Earlham, setting up and operating AV systems for events, troubleshooting equipment, and helping make sure live presentations run smoothly from a technical perspective. I also work as a TA & grader for Calculus A (1) at Earlham, a new job!
 
-This platform aims to delve into these advancements, providing insights, tutorials, and discussions on the transformative role of AI in chemistry.
+In my engineering coursework and personal tinkering, I have worked on:
+
+- An automated toy-boat prototype that can turn by itself, exploring simple control, motion, and stability in water. **Insert hyperlink to project**
+- An automated item sorter concept for a recycling plant, designed to separate materials using sensors and basic mechanical systems. **Insert hyperlink to project**
+- Previously, I spent multiple seasons working as a house painter in Victoria, BC, which taught me a lot about safety, teamwork, attention to detail, and getting things done in challenging physical conditions. I also volunteer with UWC Bolivia, helping with selection rounds, meetings, and maintaining the organization’s online presence. **Insert hyperlink to project**
+- A Minecraft mod engineered for entertainment called DragonMineZ. **Insert hyperlink to project**
+- An AI Chatbot of LLMs (Large Language Model), Databases such as PostgreSQL, and API connections. Used for agentic problem-solving and simplification of tasks.
+- The Official United World Colleges website front-end for UWC Bolivia
 
 ---
 
