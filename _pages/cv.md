@@ -9,56 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Earlham College** — Richmond, Indiana
+  - *Bachelor of Arts in Engineering (Honors Class)* | 2025 – 2029 (Expected)
+  - 3+2 Pre-Professional Engineering Program
+  - Focus: Aerospace Engineering
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Pearson College UWC** — Vancouver Island, Canada
+  - *International Baccalaureate Diploma Programme* | 2023 – May 2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Anglo American School** — Oruro, Bolivia
+  - *High School Diploma* | Graduated August 2023
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Work Experience
+
+- **Audio Visual Technician** — Earlham College | August 2025 – Present
+  - Set up and operate AV systems for campus events
+  - Troubleshoot complex audio/visual equipment
+  - Ensure seamless technical execution for live presentations
+
+- **Teaching Assistant & Grader — Calculus A** — Earlham College | 2025 – Present
+  - Support students in mastering fundamental calculus concepts
+  - Grade assignments and provide constructive feedback
+  - Assist during office hours and study sessions
+
+- **Professional House Painter** — Victoria, BC, Canada | May 2024 – August 2025
+  - Multiple seasons of residential painting work
+  - Developed attention to detail and quality standards
+  - Learned safety protocols for working at heights
+
+---
+
+## Technical Skills
+
+- **Programming Languages:** Python, Java, JavaScript, C++, SQL
+- **Web Development:** HTML5, CSS3, Bootstrap, jQuery, REST APIs, Jekyll
+- **AI & Machine Learning:** LLMs, TensorFlow, Computer Vision, NLP
+- **Engineering Tools:** CAD Design, 3D Printing, Arduino, Raspberry Pi, PID Control
+- **Databases:** PostgreSQL, Database Design, Query Optimization
+- **Software Tools:** Git, GitHub, Docker, IntelliJ IDEA, VS Code
+- **Languages:** English (Fluent), Spanish (Fluent)
+
+---
+
+## Honors & Certifications
+
+- **Earlham College Honors Class** (2025)
+- **International Baccalaureate Diploma** — Pearson College UWC (May 2025)
+- **Java Programming Certification** (2026)
+- **Scholars Edge Safety Assessment** (June 2024)
+- **WHMIS Certification** (August 2024)
+
+---
+
+## Volunteer & Community
+
+- **UWC Bolivia Volunteer** | May 2025 – Present
+  - Assist with student selection rounds
+  - Participate in organizational meetings
+  - Maintain website and online presence
+  - Support fundraising and awareness initiatives
+
+---
+
+## Portfolio
+
+<ul>{% for post in site.portfolio reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>

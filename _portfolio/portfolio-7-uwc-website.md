@@ -1,6 +1,6 @@
 ﻿---
 title: "UWC Bolivia Official Website"
-excerpt: "Front-end development for the United World Colleges Bolivia website, maintaining their digital presence. <br/><img src='/images/500x300.png'>"
+excerpt: "Front-end development for the United World Colleges Bolivia website, maintaining their digital presence."
 collection: portfolio
 date: 2024-03-10
 ---

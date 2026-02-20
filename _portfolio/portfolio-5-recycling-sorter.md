@@ -1,6 +1,6 @@
 ﻿---
 title: "Automated Recycling Item Sorter"
-excerpt: "Intelligent material sorting system for recycling plants using sensors and mechanical automation. <br/><img src='/images/500x300.png'>"
+excerpt: "Intelligent material sorting system for recycling plants using sensors and mechanical automation."
 collection: portfolio
 date: 2024-09-15
 ---

@@ -21,13 +21,19 @@
   border-radius: var(--border-radius);
   overflow: hidden;
   box-shadow: var(--shadow-md);
-  background: white;
-  border: 1px solid rgba(0,0,0,0.05);
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.list__item {
+  margin-bottom: 0.5rem;
 }
 
 /* Glassmorphism effect for sidebar */
 .sidebar {
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
   border-radius: var(--border-radius);
   box-shadow: var(--shadow-lg);
@@ -111,10 +117,54 @@
 }
 
 /* Modern section headers */
+.page__content h1 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
 .page__content h2 {
   position: relative;
   padding-bottom: 1rem;
   margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.page__content h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.page__content h4 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.page__content p {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.page__content ul,
+.page__content ol {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.page__content li {
+  margin-bottom: 0.35rem;
+  line-height: 1.6;
+}
+
+.page__content hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 2px solid rgba(102, 126, 234, 0.2);
+}
+
+.page__content > div {
+  margin-bottom: 1rem;
 }
 
 .page__content h2::after {
@@ -299,17 +349,17 @@
 /* Dark mode support (optional) */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color: #1a1a1a;
-    --text-color: #e0e0e0;
+    --bg-color: #474747;
+    --text-color: #ffffff;
   }
 
   .archive__item {
-    background: #2a2a2a;
+    background: rgba(255,255,255,0.08);
     border-color: rgba(255,255,255,0.1);
   }
 
   .sidebar {
-    background: rgba(42, 42, 42, 0.95);
+    background: rgba(71, 71, 71, 0.95);
   }
 }
 

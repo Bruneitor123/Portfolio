@@ -1,7 +1,8 @@
 ---
-title: "AI-Driven Automated Titration System"  
-excerpt: "A comprehensive guide to conducting AI-integrated automated acid-base titrations, including setup, calibration, and detailed protocols for HCl-NaOH analysis."  
-collection: portfolio  
+title: "AI-Driven Automated Titration System"
+excerpt: "A comprehensive automated acid-base titration system integrating AI for enhanced precision and data collection."
+collection: portfolio
+date: 2024-06-15
 ---
 
 # AI-Driven Automated Titration System  

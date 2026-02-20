@@ -1,6 +1,6 @@
 ﻿---
 title: "Automated Toy Boat Prototype"
-excerpt: "Self-navigating toy boat exploring control systems, motion dynamics, and stability in water environments. <br/><img src='/images/500x300.png'>"
+excerpt: "Self-navigating toy boat exploring control systems, motion dynamics, and stability in water environments."
 collection: portfolio
 date: 2024-11-20
 ---

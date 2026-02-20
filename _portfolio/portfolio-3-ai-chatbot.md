@@ -1,6 +1,6 @@
 ﻿---
 title: "AI Chatbot with Large Language Models"
-excerpt: "Advanced AI chatbot system leveraging LLMs, PostgreSQL databases, and API integrations for intelligent problem-solving and task automation. <br/><img src='/images/500x300.png'>"
+excerpt: "Advanced AI chatbot system leveraging LLMs, PostgreSQL databases, and API integrations for intelligent problem-solving and task automation."
 collection: portfolio
 date: 2025-01-15
 ---

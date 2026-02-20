@@ -1,6 +1,6 @@
 ﻿---
 title: "DragonMineZ - Minecraft Mod"
-excerpt: "Custom Minecraft modification featuring unique gameplay mechanics and Dragon Ball Z inspired content. <br/><img src='/images/500x300.png'>"
+excerpt: "Custom Minecraft modification featuring unique gameplay mechanics and Dragon Ball Z inspired content."
 collection: portfolio
 date: 2023-06-10
 ---
