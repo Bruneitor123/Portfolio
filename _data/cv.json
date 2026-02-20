@@ -1,152 +1,245 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Bruno V",
+    "email": "brunitoaas@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://bruneitor123.github.io/Portfolio",
+    "summary": "First-year Engineering student at Earlham College passionate about aerospace engineering, artificial intelligence, and hands-on innovation. IB Diploma graduate from Pearson College UWC with experience in robotics, automation, web development, and game modding. Committed to using engineering to solve real-world problems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Richmond, Indiana",
       "countryCode": "US",
-      "region": ""
+      "region": "Indiana"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "bruneitor123",
+        "url": "https://github.com/bruneitor123"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Earlham College",
+      "position": "Audio Visual Technician",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Set up and operate AV systems for campus events, troubleshoot equipment, and ensure seamless technical execution for live presentations.",
+      "highlights": [
+        "Managed AV setup for 50+ campus events",
+        "Maintained and troubleshot complex audio/visual equipment",
+        "Collaborated with event organizers to meet technical requirements"
+      ]
+    },
+    {
+      "company": "Earlham College",
+      "position": "Teaching Assistant & Grader - Calculus A",
+      "website": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Support students in mastering fundamental calculus concepts, grade assignments, and provide academic guidance.",
+      "highlights": [
+        "Assisted students during office hours and study sessions",
+        "Graded assignments and provided constructive feedback",
+        "Helped explain complex mathematical concepts"
+      ]
+    },
+    {
+      "company": "House Painting Services",
+      "position": "Professional House Painter",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Multiple seasons of residential painting work in Victoria, BC, Canada.",
+      "highlights": [
+        "Developed strong attention to detail and quality standards",
+        "Learned safety protocols for working at heights",
+        "Enhanced teamwork and time management skills",
+        "Managed physical demands in challenging weather conditions"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Earlham College",
+      "area": "Bachelor of Arts in Engineering",
+      "studyType": "Undergraduate",
+      "startDate": "2024",
+      "endDate": "Expected 2028",
+      "gpa": null,
+      "courses": [
+        "Engineering Fundamentals",
+        "Calculus",
+        "Physics",
+        "Liberal Arts Core"
+      ]
+    },
+    {
+      "institution": "Pearson College UWC",
+      "area": "International Baccalaureate Diploma Programme",
+      "studyType": "Pre-University",
+      "startDate": "2023",
+      "endDate": "May 2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "Anglo American School",
+      "area": "High School Diploma",
+      "studyType": "Secondary Education",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": ["Python", "Java", "JavaScript", "C++", "SQL"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": ["HTML", "CSS", "Bootstrap", "jQuery", "REST APIs"]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "level": "Beginner-Intermediate",
+      "keywords": ["LLMs", "TensorFlow", "Computer Vision", "Natural Language Processing"]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": ["PostgreSQL", "Database Design", "Query Optimization"]
+    },
+    {
+      "name": "Engineering Tools",
+      "level": "Intermediate",
+      "keywords": ["CAD Design", "3D Printing", "Arduino", "Raspberry Pi", "PID Control"]
+    },
+    {
+      "name": "Software Tools",
+      "level": "Intermediate",
+      "keywords": ["Git", "GitHub", "Docker", "IntelliJ IDEA", "VS Code"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native/Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native/Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Aerospace Engineering",
+      "keywords": ["Fluid Mechanics", "Control Systems", "Aircraft Design", "Space Exploration"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["Machine Learning", "LLMs", "Automation", "Robotics"]
+    },
+    {
+      "name": "Game Development",
+      "keywords": ["Minecraft Modding", "Game Mechanics", "Java Programming"]
+    },
+    {
+      "name": "Community Service",
+      "keywords": ["UWC Movement", "Education Access", "Volunteer Work"]
+    }
+  ],
   "references": [],
-  "publications": [
+  "publications": [],
+  "presentations": [],
+  "awards": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "title": "Earlham College Honors Class",
+      "date": "2024",
+      "awarder": "Earlham College",
+      "summary": "Selected for the prestigious Honors Class program at Earlham College."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "title": "International Baccalaureate Diploma",
+      "date": "2024",
+      "awarder": "Pearson College UWC",
+      "summary": "Completed the rigorous IB Diploma Programme with focus on academic excellence and global perspective."
     }
   ],
-  "presentations": [
+  "certificates": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Java Programming Certification",
+      "date": "2026",
+      "issuer": "",
+      "url": ""
     }
   ],
-  "teaching": [
+  "volunteer": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "organization": "UWC Bolivia",
+      "position": "Volunteer",
+      "website": "",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "summary": "Support United World Colleges Bolivia National Committee in student selection, events, and digital presence management.",
+      "highlights": [
+        "Assist with student selection rounds",
+        "Participate in organizational meetings",
+        "Maintain website and online presence",
+        "Support fundraising and awareness initiatives"
+      ]
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "AI-Driven Automated Titration System",
+      "category": "Chemistry/AI",
+      "date": "2024",
+      "url": "/Portfolio/portfolio/portfolio-1",
+      "description": "Comprehensive automated acid-base titration system integrating AI for enhanced precision and data collection."
+    },
+    {
+      "name": "AI Chatbot with LLMs",
+      "category": "Software/AI",
+      "date": "2025",
+      "url": "https://github.com/DragonMineZ/dragonminez-ai",
+      "description": "Advanced chatbot leveraging Large Language Models, PostgreSQL databases, and API integrations."
+    },
+    {
+      "name": "Automated Toy Boat Prototype",
+      "category": "Marine Engineering",
+      "date": "2024",
+      "url": "/Portfolio/portfolio/portfolio-4-boat",
+      "description": "Self-navigating boat exploring control systems, motion dynamics, and stability in water."
+    },
+    {
+      "name": "Automated Recycling Item Sorter",
+      "category": "Environmental Engineering",
+      "date": "2024",
+      "url": "https://github.com/Bruneitor123/sorting-machine",
+      "description": "Intelligent material sorting system for recycling plants using sensors and mechanical automation."
+    },
+    {
+      "name": "DragonMineZ Minecraft Mod",
+      "category": "Game Development",
+      "date": "2023",
+      "url": "https://dragonminez.com/",
+      "description": "Custom Minecraft modification featuring unique gameplay mechanics and Dragon Ball Z inspired content."
+    },
+    {
+      "name": "UWC Bolivia Official Website",
+      "category": "Web Development",
+      "date": "2024",
+      "url": "https://bo.uwc.org",
+      "description": "Front-end development for the United World Colleges Bolivia website."
     }
-  ]
+  ],
+  "teaching": []
 }

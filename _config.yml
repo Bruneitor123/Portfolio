@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Portfolio"
-title_separator: " - "
-name: "Bruno V"
-description: "A personal portfolio of all the projects I have done/participated on so far."
+title: "Bruno Vincentty Viaña - Engineering Portfolio"
+title_separator: " | "
+name: "Bruno Vincentty Viaña"
+description: "Engineering student passionate about aerospace, AI, and hands-on innovation. Showcasing projects in robotics, automation, software development, and more."
 url: "https://bruneitor123.github.io"  # Base hostname
 baseurl: "/Portfolio"  # Subpath for your repository
 repository: "bruneitor123/Portfolio"
@@ -22,13 +22,13 @@ repository: "bruneitor123/Portfolio"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bruno"
-  pronouns         : # example: "she/her"  
-  bio              : "Student at Earlham College"
-  location         : "Earth"
+  name             : "Bruno V"
+  pronouns         : # example: "she/her"
+  bio              : "Engineering Student | Aerospace Enthusiast | AI Developer | Java Certified | Honors Class"
+  location         : "Richmond, Indiana"
   employer         : "Earlham College"
   uri              : # URL
-  email            : "brunitoaas@gmail.com" 
+  email            : "brunitoaas@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -55,10 +55,10 @@ author:
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
+  instagram        : "brunito_vincentty"
   keybase          : # Username
-  instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "bruno-vincentty-viana"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

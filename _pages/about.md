@@ -7,36 +7,148 @@ redirect_from:
   - /about.html
 ---
 
-# My warm portfolio
+<div style="animation: fadeIn 0.8s ease-out;">
 
-Hello, I am Bruno! 👋. I made this github-pages website to share the projects I have worked on in a way to streamline the way I store my ideas, and a place where I can brag about wild ideas that come to me!
-I wanted to also share that this about page is shared with the one I have on my GitHub main page.
+# 👋 My Portfolio
 
-## About me
+Hello, I am Bruno! I created this GitHub Pages website to showcase the projects I've worked on, streamline how I organize my ideas, and share the innovative concepts that inspire me!
 
-I was born in Oruro, Bolivia, a high-altitude city known for its mining history and vibrant cultural traditions (like the carnival!). I finished high school at Anglo American School in Oruro and completed the International Baccalaureate Diploma Programme at Pearson College UWC on Vancouver Island, Canada. 
+<div class="alert alert-info">
+💡 <strong>Note:</strong> This about page is synchronized with my GitHub main page for consistency.
+</div>
 
-I am now a first-year student at Earlham College in Richmond, Indiana, pursuing a Bachelor of Arts in Engineering (thinking of doing their 3+2 Pre-Professional engineering program) and building a path toward aerospace engineering.
+## 🚀 About Me
 
-## 📚 Academics
+I was born in **Oruro, Bolivia**, a high-altitude city known for its rich mining history and vibrant cultural traditions like the famous carnival! I completed high school at Anglo American School in Oruro and earned my International Baccalaureate Diploma from **Pearson College UWC** on Vancouver Island, Canada.
 
-At Earlham, I am in my freshman year in the Engineering program, which combines a strong foundation in math, physics, and engineering with liberal arts skills like communication and ethical reasoning. I am especially interested in how these fundamentals connect to aerospace topics such as fluid mechanics, structures, and control systems that are core to aircraft and spacecraft design.
-
-Before Earlham, I completed the IB Diploma at Pearson College UWC, a demanding pre-university curriculum that strengthened my quantitative reasoning, research abilities, and ability to work under academic pressure. That experience, together with UWC’s global and community-focused environment, strongly influences how I think about using engineering to solve real-world problems.
-
-## 🤿 Extracurriculars and projects 👨‍💻
-
-Outside of class, I like working at the intersection of technical problem-solving, hands-on work, and community. On campus, I work as an Audio Visual Technician at Earlham, setting up and operating AV systems for events, troubleshooting equipment, and helping make sure live presentations run smoothly from a technical perspective. I also work as a TA & grader for Calculus A (1) at Earlham, a new job!
-
-In my engineering coursework and personal tinkering, I have worked on:
-
-- An automated toy-boat prototype that can turn by itself, exploring simple control, motion, and stability in water. **Insert hyperlink to project**
-- An automated item sorter concept for a recycling plant, designed to separate materials using sensors and basic mechanical systems. **Insert hyperlink to project**
-- Previously, I spent multiple seasons working as a house painter in Victoria, BC, which taught me a lot about safety, teamwork, attention to detail, and getting things done in challenging physical conditions. I also volunteer with UWC Bolivia, helping with selection rounds, meetings, and maintaining the organization’s online presence. **Insert hyperlink to project**
-- A Minecraft mod engineered for entertainment called DragonMineZ. **Insert hyperlink to project**
-- An AI Chatbot of LLMs (Large Language Model), Databases such as PostgreSQL, and API connections. Used for agentic problem-solving and simplification of tasks.
-- The Official United World Colleges website front-end for UWC Bolivia
+Currently, I'm a first-year student at **Earlham College** in Richmond, Indiana, pursuing a Bachelor of Arts in Engineering with plans for their 3+2 Pre-Professional Engineering Program. My ultimate goal? **Aerospace Engineering**! 🚀✈️
 
 ---
 
+## 📚 Academic Journey
+
+At Earlham, I'm diving deep into the Engineering program, which provides a robust foundation in:
+- **Mathematics** & **Physics**
+- **Engineering Fundamentals**
+- **Liberal Arts** skills (communication & ethical reasoning)
+
+I'm particularly fascinated by how these fundamentals connect to aerospace topics like:
+- Fluid Mechanics
+- Structural Analysis
+- Control Systems
+- Aircraft & Spacecraft Design
+
+### Previous Academic Excellence
+
+Before Earlham, I completed the **IB Diploma at Pearson College UWC**, a rigorous pre-university curriculum that strengthened my:
+- Quantitative reasoning
+- Research abilities
+- Academic resilience
+- Global perspective
+
+The UWC's community-focused environment profoundly influences how I approach engineering as a tool for solving real-world problems.
+
+---
+
+## 🛠️ Technical Skills
+
+<div style="margin: 1.5rem 0;">
+  <span class="skill-badge">Python</span>
+  <span class="skill-badge">Java</span>
+  <span class="skill-badge">JavaScript</span>
+  <span class="skill-badge">PostgreSQL</span>
+  <span class="skill-badge">AI/ML</span>
+  <span class="skill-badge">CAD Design</span>
+  <span class="skill-badge">Control Systems</span>
+  <span class="skill-badge">Web Development</span>
+  <span class="skill-badge">API Integration</span>
+</div>
+
+---
+
+## 💼 Current Roles & Experience
+
+### 🎬 Audio Visual Technician | Earlham College
+Setting up and operating AV systems for campus events, troubleshooting equipment, and ensuring seamless technical execution for live presentations.
+
+### 📐 Teaching Assistant & Grader | Calculus A (Level 1)
+Supporting students in mastering fundamental calculus concepts, grading assignments, and providing academic guidance.
+
+### 🎨 Professional House Painter | Victoria, BC (Seasonal)
+Multiple seasons of hands-on work teaching me safety protocols, teamwork, attention to detail, and perseverance in challenging conditions.
+
+---
+
+## 🤿 Projects & Extracurriculars
+
+### Featured Projects
+
+<div class="timeline">
+
+<div class="timeline-item">
+<h4>🤖 AI Chatbot with LLMs</h4>
+<p>Advanced chatbot leveraging Large Language Models, PostgreSQL databases, and API integrations for agentic problem-solving and task automation.</p>
+<p><a href="https://github.com/DragonMineZ/dragonminez-ai" class="btn btn--primary">View on GitHub →</a></p>
+</div>
+
+<div class="timeline-item">
+<h4>🚤 Automated Toy Boat Prototype</h4>
+<p>Self-navigating boat exploring control systems, motion dynamics, and stability in water environments.</p>
+<p><a href="/Portfolio/portfolio/portfolio-4-boat" class="btn btn--primary">View Project →</a></p>
+</div>
+
+<div class="timeline-item">
+<h4>♻️ Automated Item Sorter</h4>
+<p>Recycling plant concept using sensors and mechanical systems to automatically separate materials by type.</p>
+<p><a href="https://github.com/Bruneitor123/sorting-machine" class="btn btn--primary">View on GitHub →</a></p>
+</div>
+
+<div class="timeline-item">
+<h4>🐉 DragonMineZ Minecraft Mod</h4>
+<p>Custom Minecraft modification created for entertainment, featuring unique gameplay mechanics and content.</p>
+<p><a href="https://dragonminez.com/" class="btn btn--primary">Visit Website →</a> <a href="https://github.com/DragonMineZ/" class="btn btn--primary">GitHub →</a></p>
+</div>
+
+<div class="timeline-item">
+<h4>🌐 UWC Bolivia Official Website</h4>
+<p>Front-end development for the United World Colleges Bolivia website, maintaining their digital presence and information portal.</p>
+<p><a href="https://bo.uwc.org" class="btn btn--primary">Visit Website →</a></p>
+</div>
+
+<div class="timeline-item">
+<h4>🧪 AI-Driven Automated Titration System</h4>
+<p>Comprehensive automated acid-base titration system integrating AI for enhanced precision and data collection.</p>
+<p><a href="/portfolio/portfolio-1" class="btn btn--primary">View Details →</a></p>
+</div>
+
+</div>
+
+### 🌍 Community Involvement
+
+**UWC Bolivia Volunteer**
+- Assisting with selection rounds
+- Participating in organizational meetings
+- Managing online presence and communications
+
+---
+
+## 🎯 Interests & Passions
+
+- 🚀 Aerospace Engineering & Space Exploration
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔧 Hands-on Engineering & Prototyping
+- 🌍 Community Service & Global Impact
+- 🎮 Game Development & Modding
+- 🌊 Marine Engineering
+
+---
+
+## 📫 Let's Connect!
+
+I'm always excited to connect with fellow engineers, students, and innovators. Feel free to reach out through any of my social links in the sidebar!
+
+<div class="section-divider"></div>
+
 *Note: This website is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com).*
+
+</div>

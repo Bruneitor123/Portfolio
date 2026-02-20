@@ -1,13 +1,94 @@
-# Ignore the contents of the _site directory and other cache directories
+# Jekyll Generated Files
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Ignore the directory for local files during development
-local/
-
-# Ignore the Gemfile that is generated
+# Ruby / Bundler
 Gemfile.lock
+.bundle/
+vendor/
 
-# Ingore files created by npm
-node_modules
+# Node / npm
+node_modules/
 package-lock.json
+npm-debug.log
+yarn-error.log
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Local development
+local/
+.env
+.env.local
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Documentation helper files (keep main docs)
+INFO_NEEDED.md
+NEXT_STEPS.md
+UPDATE_COMPLETE.md
+IMPROVEMENTS_SUMMARY.md
+START_HERE.md
+FINAL_SUMMARY.md
+PORTFOLIO_GUIDE.md
+
+# Build artifacts
+.asset-cache/
+
+# Python cache files (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Backup and autosave files
+*~
+*.orig
+*.rej
+\#*\#
+.#*
+
+# Test files
+test/
+tests/
+spec/
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Build outputs
+dist/
+build/
+out/
