@@ -1,0 +1,8 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Portfolio CV Schema",
+  "description": "Custom CV schema for the Academic Pages portfolio template",
+  "type": "object",
+  "additionalProperties": true
+}
+
